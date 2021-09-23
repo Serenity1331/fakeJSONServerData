@@ -1,0 +1,64 @@
+{
+    "articles": [
+      { 
+        "id": 1,
+        "link1300px": "images/stylish-clothes-280.jpg",
+        "link": "images/stylish-clothes-med.jpg",  
+        "alt": "A person wearing stylish clothes",
+        "title": "Article title",
+        "date": "24.01.2021",
+        "category": " | News",
+        "text": "Amet minim mollit non deserunt ullamco est aliqua dolor amet sint. Velit officia consequat duis." 
+      },
+      { 
+        "id": 2,
+        "link1300px": "images/black-and-white-face-280.jpg",
+        "link": "images/black-and-white-face-med.jpg",  
+        "alt": "Man's face in grayscale",
+        "title": "Article title",
+        "date": "24.01.2021",
+        "category": " | Articles",
+        "text": "Amet minim mollit non deserunt ullamco est aliqua dolor amet sint. Velit officia consequat duis." 
+      },
+      { 
+        "id": 3,
+        "link1300px": "images/clothing-shop-280.jpg",
+        "link": "images/clothing-shop.jpg",  
+        "alt": "An interior of a clothing shop",
+        "title": "Article title",
+        "date": "24.01.2021",
+        "category": " | News",
+        "text": "Amet minim mollit non deserunt ullamco est aliqua dolor amet sint. Velit officia consequat duis." 
+      },
+      { 
+        "id": 4,
+        "link1300px": "images/black-shoes-280.jpg",
+        "link": "images/black-shoes.jpg",  
+        "alt": "Black shoes",
+        "title": "Article title",
+        "date": "24.01.2021",
+        "category": " | News",
+        "text": "Amet minim mollit non deserunt ullamco est aliqua dolor amet sint. Velit officia consequat duis." 
+      },
+      { 
+        "id": 5,
+        "link1300px": "images/casual-clothes-280.jpg",
+        "link": "images/casual-clothes.jpg",  
+        "alt": "Three persons wearing casual clothes",
+        "title": "Article title",
+        "date": "24.01.2021",
+        "category": " | Articles",
+        "text": "Amet minim mollit non deserunt ullamco est aliqua dolor amet sint. Velit officia consequat duis." 
+      },
+      { 
+        "id": 6,
+        "link1300px": "images/man-in-black-casual-280.jpg",
+        "link": "images/man-in-black-casual.jpg",  
+        "alt": "A man wearing casual black clothes",
+        "title": "Article title",
+        "date": "24.01.2021",
+        "category": " | News",
+        "text": "Amet minim mollit non deserunt ullamco est aliqua dolor amet sint. Velit officia consequat duis." 
+      }
+    ]
+}
